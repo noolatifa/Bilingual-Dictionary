@@ -1,0 +1,83 @@
+﻿<Traductions>
+
+  <traduction>
+    <MotL1>chat</MotL1>
+    <MotL2>cat</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>Le chat dort sur le canapé.</ExempleL1>
+    <ExempleL2>The cat is sleeping on the sofa.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>chien</MotL1>
+    <MotL2>dog</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>Le chien joue avec son jouet préféré.</ExempleL1>
+    <ExempleL2>The dog is playing with his favorite toy.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>oiseau</MotL1>
+    <MotL2>bird</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>L'oiseau chante dans l'arbre.</ExempleL1>
+    <ExempleL2>The bird is singing in the tree.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>arbre</MotL1>
+    <MotL2>tree</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>L'arbre est grand et majestueux.</ExempleL1>
+    <ExempleL2>The tree is tall and majestic.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>maison</MotL1>
+    <MotL2>house</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>Ma maison est située près de la plage.</ExempleL1>
+    <ExempleL2>My house is located near the beach.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>livre</MotL1>
+    <MotL2>book</MotL2>
+    <Type>nom</Type>
+    <ExempleL1>Je lis un livre intéressant en ce moment.</ExempleL1>
+    <ExempleL2>I'm reading an interesting book right now.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>rouge</MotL1>
+    <MotL2>red</MotL2>
+    <Type>adjectif</Type>
+    <ExempleL1>Je porte une robe rouge pour la fête.</ExempleL1>
+    <ExempleL2>I'm wearing a red dress for the party.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>beau</MotL1>
+    <MotL2>beautiful</MotL2>
+    <Type>adjectif</Type>
+    <ExempleL1>C'est une belle journée ensoleillée.</ExempleL1>
+    <ExempleL2>It's a beautiful sunny day.</ExempleL2>
+  </traduction>
+
+  <traduction>
+    <MotL1>parler</MotL1>
+    <MotL2>to speak</MotL2>
+    <Type>verbe</Type>
+    <ExempleL1>Je parle français et anglais.</ExempleL1>
+    <ExempleL2>I speak French and English.</ExempleL2>
+</traduction>
+
+  <traduction>
+    <MotL1>aller</MotL1>
+    <MotL2>to go</MotL2>
+    <Type>verbe</Type>
+    <ExempleL1>Nous allons au cinéma ce soir.</ExempleL1>
+    <ExempleL2>We're going to the movies tonight.</ExempleL2>
+  </traduction>
+</Traductions>
+
